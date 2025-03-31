@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "node": "v3.2",
+    "sequelize": "v5.6"
+  }
+}
